@@ -1,3 +1,5 @@
 File B title
 
 This is a comment 1
+
+File B is good!

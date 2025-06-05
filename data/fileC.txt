@@ -2,6 +2,6 @@ File C title
 
 This is a comment 1
 
-This is an issue
+This is an issue - Resolved
 
-This is a task
+This is a task - Done
